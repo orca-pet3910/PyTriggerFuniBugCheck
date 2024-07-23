@@ -1,1 +1,1 @@
-i have no clue why defender has a fucking problem to my programs, i mean, cmon, that's just a simple and funi legit python program
+WARNING! this file triggers a REAL bluescreen! only run this if you are sure no disk activity is running!
